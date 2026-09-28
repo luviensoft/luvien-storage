@@ -1,0 +1,1 @@
+{"version":3,"file":"scope.d.ts","sourceRoot":"","sources":["../../../src/core/domain/scope.ts"],"names":[],"mappings":"AAIA,MAAM,MAAM,SAAS,GAAG,MAAM,CAAC,MAAM,EAAE,MAAM,CAAC,CAAC;AAE/C,MAAM,WAAW,iBAAiB;IAEhC,IAAI,EAAE,MAAM,CAAC;IAEb,KAAK,EAAE,MAAM,CAAC;CACf;AAED,MAAM,WAAW,kBAAkB;IAKjC,MAAM,EAAE,iBAAiB,EAAE,CAAC;CAC7B"}

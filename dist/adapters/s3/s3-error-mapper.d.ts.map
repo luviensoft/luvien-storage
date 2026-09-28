@@ -1,0 +1,1 @@
+{"version":3,"file":"s3-error-mapper.d.ts","sourceRoot":"","sources":["../../../src/adapters/s3/s3-error-mapper.ts"],"names":[],"mappings":"AAAA,OAAO,EAGL,YAAY,EAGb,MAAM,oCAAoC,CAAC;AAO5C,wBAAgB,UAAU,CAAC,GAAG,EAAE,OAAO,EAAE,OAAO,EAAE,MAAM,GAAG,YAAY,CAuBtE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"s3.config.d.ts","sourceRoot":"","sources":["../../../src/adapters/s3/s3.config.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,eAAe;IAC9B,MAAM,EAAE,MAAM,CAAC;IACf,MAAM,EAAE,MAAM,CAAC;IACf,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,cAAc,CAAC,EAAE,OAAO,CAAC;IACzB,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,eAAe,CAAC,EAAE,MAAM,CAAC;IAEzB,uBAAuB,CAAC,EAAE,MAAM,CAAC;CAClC"}
